@@ -1,5 +1,7 @@
 ![Project banner](https://raw.githubusercontent.com/mujocolab/mjlab/main/docs/source/_static/mjlab-banner.jpg)
 
+uv run --no-sync python src/mjlab/scripts/my_train.py --viewer none --device cuda:0
+
 # mjlab
 
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/mujocolab/mjlab/ci.yml?branch=main)](https://github.com/mujocolab/mjlab/actions/workflows/ci.yml?query=branch%3Amain)
